@@ -90,7 +90,7 @@ input:focus ,textarea:focus{
 }
 
 .sliderBg{
-    background-image: url(/images/overlay-bg.jpg);
+    background-image: url(../images/overlay-bg.jpg);
     width: 100%;
     height: 100vh;
     background-position:center center;
